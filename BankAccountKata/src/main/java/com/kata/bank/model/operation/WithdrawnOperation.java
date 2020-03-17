@@ -6,7 +6,7 @@ import java.time.LocalDate;
  
 /**
  * The Class Withdrawn Operation.
- *  @author Mohamed BOUATIRA
+ *  @author Hamza LAAROUSSI
  */
 public class WithdrawnOperation extends Operation {
 

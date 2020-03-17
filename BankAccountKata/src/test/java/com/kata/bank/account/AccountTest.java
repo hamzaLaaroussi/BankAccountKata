@@ -16,7 +16,7 @@ import com.kata.bank.service.impl.AccountServiceImpl;
 /**
  * The Class AccountTest.
  * 
- * @author Mohamed BOUATIRA
+ * @author Hamza LAAROUSSI
  */
 public class AccountTest {
 

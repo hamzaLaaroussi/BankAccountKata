@@ -10,7 +10,7 @@ import com.kata.bank.model.statement.StatementRecord;
 /**
  * The Class Account that represents the account bank.
  * 
- * @author Mohamed BOUATIRA
+ * @author Hamza LAAROUSSI
  * 
  */
 public class Account {

@@ -14,7 +14,7 @@ import com.kata.bank.service.AccountService;
 /**
  * The Class AccountServiceImpl .
  * 
- * @author Mohamed BOUATIRA
+ * @author Hamza LAAROUSSI
  */
 public class AccountServiceImpl implements AccountService {
 

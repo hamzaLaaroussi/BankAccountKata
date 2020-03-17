@@ -7,7 +7,7 @@ import com.kata.bank.model.account.Account;
 /**
  * The Class Statement represents the statement bank.
  * 
- * @author Mohamed BOUATIRA
+ * @author Hamza LAAROUSSI
  */
 public class Statement {
 

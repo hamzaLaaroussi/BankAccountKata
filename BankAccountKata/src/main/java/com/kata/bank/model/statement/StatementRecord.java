@@ -7,7 +7,7 @@ import com.kata.bank.model.operation.TypeOperation;
 
 /**
  * The Class StatementRecord represents the statement record.
- *  @author Mohamed BOUATIRA
+ *  @author Hamza LAAROUSSI
  */
 public class StatementRecord {
 

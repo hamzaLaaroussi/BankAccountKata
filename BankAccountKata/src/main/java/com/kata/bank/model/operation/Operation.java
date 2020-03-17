@@ -5,7 +5,7 @@ import java.time.LocalDate;
 
 /**
  * The Class Operation represents the operation occurred in the bank account.
- * @author Mohamed BOUATIRA
+ * @author Hamza LAAROUSSI
  */
 public class Operation {
 

@@ -8,7 +8,7 @@ import com.kata.bank.model.account.Account;
  
 /**
  * The Interface AccountService.
- *  @author Mohamed BOUATIRA
+ *  @author Hamza LAAROUSSI
  */
 public interface AccountService {
 
